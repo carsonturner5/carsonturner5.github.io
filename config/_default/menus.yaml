@@ -7,7 +7,7 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: Teaching
+  - name: Research
     url: /teaching/
     weight: 20
   # - name: Blog
