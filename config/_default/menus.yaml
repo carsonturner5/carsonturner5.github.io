@@ -15,7 +15,6 @@ main:
     url: '/teaching/'
     parent: research-menu
     weight: 1
-    
   - name: Posters
     url: '/posters/'
     parent: research-menu
