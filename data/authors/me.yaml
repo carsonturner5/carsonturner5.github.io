@@ -9,9 +9,6 @@ status:
 role: Master's Student
 bio: >
   I am currently pursuing a master's degree in Atmospheric Sciences at the University of Wyoming.
-affiliations:
-  - name: GenCoin
-    url: https://www.example.com/
 links:
   - icon: at-symbol
     url: mailto:your-email@example.com
@@ -68,19 +65,12 @@ skills:
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
-      - label: Hiking
-        level: 3
-      - label: Cats
+      - label: Rock Climbing
         level: 5
-      - label: Photography
+      - label: Hiking
         level: 4
-languages:
-  - name: English
-    level: 5
-  - name: Chinese
-    level: 4
-  - name: Portuguese
-    level: 1
+      - label: Fishing
+        level: 3
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
