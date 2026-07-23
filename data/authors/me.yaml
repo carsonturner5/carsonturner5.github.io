@@ -8,7 +8,7 @@ status:
   icon: "☕️"
 role: Master's Student
 bio: >
-  I am currently pursuing a master's degree in atmospheric Sciences at the University of Wyoming.
+  I am currently pursuing a master's degree in Atmospheric Sciences at the University of Wyoming.
 affiliations:
   - name: GenCoin
     url: https://www.example.com/
@@ -16,35 +16,16 @@ links:
   - icon: at-symbol
     url: mailto:your-email@example.com
     label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/GoOwnable
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/carsonturner5
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: www.linkedin.com/in/carturner
 education:
-  - degree: PhD Artificial Intelligence
-    institution: Stanford University
-    start: 2016-01-01
-    end: 2020-12-31
-    summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: "Read Thesis"
-      url: "https://example.com"
-  - degree: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    start: 2016-01-01
-    end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  - degree: MS Atmospheric Sciences
+    institution: University of Wyoming
+    start: 08/2026
+    end: Present
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - degree: BS Atmospheric Sciences
     institution: University of North Dakota
     start: 08/2022
