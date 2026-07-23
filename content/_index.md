@@ -44,8 +44,5 @@ sections:
     content:
       title: Awards
       username: me
-  - block: languages
-    content:
-      title: Languages
-      username: me
+
 ---
