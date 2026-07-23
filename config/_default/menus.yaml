@@ -12,11 +12,11 @@
     identifier: research-menu
     weight: 20
   - name: Projects
-    url: '/teaching/'
+    url: /teaching/
     parent: research-menu
     weight: 1
   - name: Posters
-    url: '/posters/'
+    url: /posters/
     parent: research-menu
     weight: 2
     
