@@ -8,8 +8,20 @@ main:
     url: /
     weight: 10
   - name: Research
-    url: '/teaching/'
+    url: '#'
+    identifier: research-menu
     weight: 20
+  - name: Projects
+    url: '/teaching/'
+    parent: research-menu
+    weight: 1
+    
+  - name: Posters
+    url: '/posters/'
+    parent: research-menu
+    weight: 2
+    
+    #'/teaching/'
   # - name: Blog
   #   url: blog/
   #   weight: 20
