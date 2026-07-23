@@ -47,12 +47,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - degree: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    start: 2016-01-01
-    end: 2020-12-31
+  - degree: BS Atmospheric Sciences
+    institution: University of North Dakota
+    start: 08/2022
+    end: 05/2026
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.6/4.0
 
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
