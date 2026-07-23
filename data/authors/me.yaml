@@ -1,16 +1,14 @@
 schema: hugoblox/author/v1
-slug: headhsot
+slug: headshot
 is_owner: true
 name:
   display: Carson Turner
-  pronouns: He/HIm
+  pronouns: He/Him
 status:
   icon: "☕️"
-role: Director of Cloud Infrastructure
+role: Master's Student
 bio: >
-  I am currently Director of Cloud Infrastructure at GenCoin where I am leading
-  teams on edge computing, deep sea data center architecture, and hivemind
-  optimization.
+  I am currently pursuing a master's degree in atmospheric Sciences at the University of Wyoming.
 affiliations:
   - name: GenCoin
     url: https://www.example.com/
