@@ -13,11 +13,6 @@ sections:
     content:
       username: me
       # Show a call-to-action button under your biography? (optional)
-      button:
-        text: Research
-        url: /research/
-        icon: microscope
-        icon_pack: fas
     design:
       show_status: false
       spacing:
