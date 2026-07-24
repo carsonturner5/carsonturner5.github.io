@@ -50,3 +50,5 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
+params:
+  googleAnalyticsID: "G-4C9QF1QP8Y"
