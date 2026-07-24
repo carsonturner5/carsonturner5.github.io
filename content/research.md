@@ -6,4 +6,12 @@ weight: 20
 draft: false
 ---
 
-Welcome to my about page! Here is some text about what I do.
+## Current Work
+
+#### Evaluating Aerosols in GEOS-CAM
+
+## Previous Work
+
+#### Quantifying Methane Fluxes Over the Great Dismal Swamp
+
+The swamp has methane!!
