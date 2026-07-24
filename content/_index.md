@@ -12,10 +12,10 @@ sections:
       username: me
       # Show a call-to-action button under your biography? (optional)
       buttons:
-        - text: Research
-          url: /research/
-        - text: Download Résumé
-          url: uploads/resume.pdf
+        text: Research
+        url: /research/
+        text: Download Résumé
+        url: uploads/resume.pdf
     design:
       show_status: false
       spacing:
