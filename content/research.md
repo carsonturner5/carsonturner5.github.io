@@ -9,7 +9,7 @@ header:
     enable: true
 ---
 
-## Current Work
+## Current Research
 
 #### Evaluating Aerosols in GEOS-CAM
 
