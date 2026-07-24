@@ -96,8 +96,8 @@ hugoblox:
     # Call-to-action button
     cta:
       enable: true
-      text: "Download Résumé"
-      url: "uploads/resume.pdf"
+      text: "Download CV"
+      url: "uploads/CV_CarsonTurner.pdf"
 
   # ────────────────────────────────────────────────────────────────────────────
   # FOOTER
