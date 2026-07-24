@@ -1,0 +1,10 @@
+{{ if and (not .Site.IsServer) .Site.Params.googleAnalyticsID }}
+<!-- Google tag (gtag.js) -->
+<script async src="https://googletagmanager.com{{ .Site.Params.googleAnalyticsID }}"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', '{{ .Site.Params.googleAnalyticsID }}');
+</script>
+{{ end }}
