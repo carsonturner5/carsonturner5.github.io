@@ -2,7 +2,7 @@ schema: hugoblox/author/v1
 slug: headshot
 is_owner: true
 name:
-  display: Carson Turner?
+  display: Carson Turner
   pronouns: He/Him
 status:
   icon: "☕️"
