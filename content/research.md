@@ -10,6 +10,8 @@ draft: false
 
 #### Evaluating Aerosols in GEOS-CAM
 
+GEOS-CAM has aerosols!!
+
 ## Previous Work
 
 #### Quantifying Methane Fluxes Over the Great Dismal Swamp
