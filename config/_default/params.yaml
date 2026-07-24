@@ -80,6 +80,8 @@ hugoblox:
   # Site header and navigation bar
   # ────────────────────────────────────────────────────────────────────────────
   header:
+    navbar:
+      enable: true
     enable: true
     # Header style variant
     style: floating-theme-toggler # navbar | navbar-simple | minimal
