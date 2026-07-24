@@ -14,7 +14,6 @@ sections:
       button:
         text: Research
         url: /research/
-      button:
         text: Download Résumé
         url: uploads/resume.pdf
     design:
