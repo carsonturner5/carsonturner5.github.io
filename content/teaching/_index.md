@@ -1,6 +1,6 @@
 ---
 title: About Us
-type: landing
+type: landing 
 
 sections:
   - block: hero
