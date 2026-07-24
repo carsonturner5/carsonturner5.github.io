@@ -19,7 +19,7 @@ sections:
         padding: ['0', '0', '6rem', '0']
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: rainier_banner.jpg
+        filename: IMG_5479.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: justify; font-size: 0.8em;'
