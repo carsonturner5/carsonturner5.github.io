@@ -14,6 +14,8 @@ sections:
       button:
         text: Research
         url: /research/
+        icon: microscope
+        icon_pack: fas
     design:
       show_status: false
       spacing:
