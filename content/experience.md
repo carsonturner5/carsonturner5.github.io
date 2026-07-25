@@ -46,19 +46,26 @@ header:
 <!-- # End of CC in Met # -->
 <!-- #################### -->
 
-#### <strong style="color: #4CBB17;">Introduction to Computer Science</strong>
-<span style="float: right;color: #D6DCE5;">Fall 2025</span>
+<!-- ######################## -->
+<!-- # Start of Intro to CS # -->
+<!-- ######################## -->
 
-*University of North Dakota, School of Electrical Engineering and Computer Science*
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <strong style="color:#4CBB17; font-size:2rem;">
+        Introduction to Computer Science
+    </strong>
+    <span style="color:#D6DCE5; font-size:1rem;">
+        Fall 2025
+    </span>
+</div>
+
+<p><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
 
 <ul class="custom-bullets">
   <li>Demonstrate analysis of various datasets in meteorology</li>
   <li>Teach data visualization and plotting techniques</li>
   <li>Promote students independent coding capabilities</li>
 </ul>
-
-
-
 
 
 
