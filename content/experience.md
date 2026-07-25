@@ -16,7 +16,7 @@ header:
   <span><strong>Computer Concepts in Meteorology</strong>
   <span>Spring 2026</span>
 </div>
-
+*University of North Dakota, Department of Atmospheric Sciences*
 <ul style="color:#2E86C1;">
   <li>Demonstrate analysis of various datasets in meteorology</li>
   <li>Teach data visualization and plotting techniques</li>
