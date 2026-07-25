@@ -29,7 +29,7 @@ header:
     <strong style="color:#4CBB17; font-size:2rem;">
         Computer Concepts in Meteorology
     </strong>
-    <span style="color:#D6DCE5; font-size:1rem;">
+    <span style="color:#D6DCE5; font-size:1.5rem;">
         Spring 2026
     </span>
 </div>
@@ -54,7 +54,7 @@ header:
     <strong style="color:#4CBB17; font-size:2rem;">
         Introduction to Computer Science
     </strong>
-    <span style="color:#D6DCE5; font-size:1rem;">
+    <span style="color:#D6DCE5; font-size:1.5rem;">
         Fall 2025
     </span>
 </div>
