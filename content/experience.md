@@ -7,7 +7,7 @@ header:
   navbar:
     enable: true
 ---
-{{< toc >}}
+
 
 ## Teaching Assistant
 
