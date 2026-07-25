@@ -10,11 +10,16 @@ header:
 ---
 
 
-## Current Work
+## Teaching
 
-#### NASA Goddard Space Flight Center OSTEM Intern
+#### Computer Concepts in Meteorology
+* University of North Dakota Department of Atmospheric Sciences
 
-Checkout my results [here](/research/)!
+  - Demonstrate analysis of various datasets in meteorology
+  - Promote students independent coding capabilities
+  - Teach data visualization and plotting techniques 
+
+
 
 ## Previous Work
 
