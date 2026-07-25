@@ -24,6 +24,7 @@ header:
 ### <strong style="color: #4CBB17;">Computer Concepts in Meteorology</strong>
 <span style="float: right;color: #D6DCE5;">Spring 2026</span>
 
+
 *University of North Dakota, Department of Atmospheric Sciences*
 
 <ul class="custom-bullets">
