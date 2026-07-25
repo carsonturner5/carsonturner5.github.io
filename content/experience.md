@@ -6,9 +6,8 @@ draft: false
 header:
   navbar:
     enable: true
-showToc: true
 ---
-
+{{< toc >}}
 
 ## Teaching Assistant
 
