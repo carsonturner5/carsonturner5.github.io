@@ -62,9 +62,9 @@ header:
 <p><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
 
 <ul class="custom-bullets">
-  <li>Demonstrate analysis of various datasets in meteorology</li>
-  <li>Teach data visualization and plotting techniques</li>
-  <li>Promote students independent coding capabilities</li>
+  <li>Develop beginner level Python labs weekly</li>
+  <li>Use real world meteorology based problems to teach Python</li>
+  <li>Clearly explain introductory computer science concepts</li>
 </ul>
 <br>
 <!-- ###################### -->
