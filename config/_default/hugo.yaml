@@ -19,7 +19,7 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-googleAnalytics: "G-4C9QF1QP8Y"
+
 build:
   writeStats: true
 enableGitInfo: false
@@ -50,5 +50,4 @@ security:
   _merge: deep
 sitemap:
   _merge: deep
-params:
-  googleAnalyticsID: "G-4C9QF1QP8Y"
+
