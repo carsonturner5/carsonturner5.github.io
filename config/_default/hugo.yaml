@@ -19,7 +19,7 @@ removePathAccents: true
 ############################
 ## ADVANCED
 ############################
-
+googleAnalytics: "G-4C9QF1QP8Y"
 build:
   writeStats: true
 enableGitInfo: false
