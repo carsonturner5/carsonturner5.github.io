@@ -13,13 +13,13 @@ header:
 
 <style>
 .custom-bullets li::marker {
-    color: #009A44;
+    color: #4CBB17;
 }
 .custom-bullets li {
     color: #FFFFFF;
 }
 </style>
-
+#009A44
 
 ### <strong style="color: #4CBB17;">Computer Concepts in Meteorology</strong>
 <span style="float: right;color: #D6DCE5;">Spring 2026</span>
