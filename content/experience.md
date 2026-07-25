@@ -11,15 +11,25 @@ header:
 
 ## Teaching Assistant
 
+<style>
+.custom-bullets li::marker {
+    color: #009A44;
+}
+.custom-bullets li {
+    color: #FFFFFF;
+}
+</style>
+
+
 <strong style="color: #4CBB17;">Computer Concepts in Meteorology</strong>
 <span style="float: right;color: #D6DCE5;">Spring 2026</span>
 
 *University of North Dakota, Department of Atmospheric Sciences*
 
-<ul style="color:#FFFFFF;">
-  <li><span style="color:#009A44;">●</span>Demonstrate analysis of various datasets in meteorology</li>
-  <li><span style="color:#009A44;">●</span>Teach data visualization and plotting techniques</li>
-  <li><span style="color:#009A44;">●</span>Promote students independent coding capabilities</li>
+<ul class="custom-bullets">
+  <li>Demonstrate analysis of various datasets in meteorology</li>
+  <li>Teach data visualization and plotting techniques</li>
+  <li>Promote students independent coding capabilities</li>
 </ul>
 
     
