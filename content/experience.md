@@ -10,16 +10,17 @@ header:
 ---
 
 
-## Teaching
+## Teaching Assistant
 
 <div style="display: flex; justify-content: space-between;">
-  <span><strong>Course:</strong> Data Structures</span>
+  <span><strong>Computer Concepts in Meteorology</strong>
   <span>Spring 2026</span>
 </div>
 
 <ul style="color:#2E86C1;">
-  <li>Developed a machine learning model.</li>
-  <li>Published research findings.</li>
+  <li>Demonstrate analysis of various datasets in meteorology</li>
+  <li>Teach data visualization and plotting techniques</li>
+  <li>Promote students independent coding capabilities</li>
 </ul>
 
 #### Computer Concepts in Meteorology, Jan 2026 - May 2026
