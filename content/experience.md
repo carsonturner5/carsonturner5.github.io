@@ -23,6 +23,18 @@ header:
   <li>Promote students independent coding capabilities</li>
 </ul>
 
+    
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>Introduction to Computer Science</strong>
+  <span>Fall 2025</span>
+</div>
+*University of North Dakota, School of Electrical Engineering and Computer Science*
+<ul style="color:#2E86C1;">
+  <li>Demonstrate analysis of various datasets in meteorology</li>
+  <li>Teach data visualization and plotting techniques</li>
+  <li>Promote students independent coding capabilities</li>
+</ul>
+
 #### Computer Concepts in Meteorology, Jan 2026 - May 2026
 *University of North Dakota; Department of Atmospheric Sciences*
 
