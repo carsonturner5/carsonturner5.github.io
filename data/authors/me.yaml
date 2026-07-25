@@ -30,28 +30,28 @@ education:
     summary: |
       GPA: 3.6/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # Courses included:
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      # - lorem ipsum dolor sit amet, consectetur adipiscing elit
 experience:
   - role: NASA Goddard Space Flight Center Intern
     org: GMAO
     start: 06/2026
     summary: |
       Responsibilities include:
-      - Evaluating aerosols in the GEOS-CAM stretched grid model
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Create a Python utility to gather and analyze GEOS data
+      - Evaluate modeled AOD within the GEOS systems 
+      - Provide recommendations for improvement to GEOS-CAM
   - role: NASA Student Airborne Research Program (SARP) Intern
     org: ECR
     start: 06/2026
     end: 08/2026
     summary: |
       Responsibilities include:
-      - Quantify methane emissions from the Great Dismal Swamp
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Collect in-situ data on research flights and ground truthing trips
+      - Analyze ground station, satellite, and air data using Python
+      - Calculate methane flux using the mass balance technique
 skills:
   - name: Technical Skills
     items:
