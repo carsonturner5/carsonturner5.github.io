@@ -41,7 +41,7 @@ header:
   <li>Teach data visualization and plotting techniques</li>
   <li>Promote students independent coding capabilities</li>
 </ul>
-
+<br>
 <!-- #################### -->
 <!-- # End of CC in Met # -->
 <!-- #################### -->
@@ -66,7 +66,7 @@ header:
   <li>Teach data visualization and plotting techniques</li>
   <li>Promote students independent coding capabilities</li>
 </ul>
-
+<br>
 <!-- ###################### -->
 <!-- # End of Intro to CS # -->
 <!-- ###################### -->
@@ -91,7 +91,7 @@ header:
   <li>Teach data visualization and plotting techniques</li>
   <li>Promote students independent coding capabilities</li>
 </ul>
-
+<br>
 <!-- ####################### -->
 <!-- # End of Intro to Met # -->
 <!-- ####################### -->
