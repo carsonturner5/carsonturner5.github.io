@@ -23,10 +23,10 @@ header:
 #################
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <strong style="color:#4CBB17; font-size:1.5rem;">
+    <strong style="color:#4CBB17; font-size:3rem;">
         Computer Concepts in Meteorology
     </strong>
-    <span style="color:#D6DCE5; font-size:1.5rem;">
+    <span style="color:#D6DCE5; font-size:1rem;">
         Spring 2026
     </span>
 </div>
