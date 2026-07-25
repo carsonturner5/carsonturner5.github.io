@@ -67,7 +67,34 @@ header:
   <li>Promote students independent coding capabilities</li>
 </ul>
 
+<!-- ###################### -->
+<!-- # End of Intro to CS # -->
+<!-- ###################### -->
 
+<!-- ######################### -->
+<!-- # Start of Intro to Met # -->
+<!-- ######################### -->
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <strong style="color:#4CBB17; font-size:2rem;">
+        Introduction to Meteorology
+    </strong>
+    <span style="color:#D6DCE5; font-size:1.5rem;">
+        Fall 2024, Spring 2025
+    </span>
+</div>
+
+<p><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
+
+<ul class="custom-bullets">
+  <li>Demonstrate analysis of various datasets in meteorology</li>
+  <li>Teach data visualization and plotting techniques</li>
+  <li>Promote students independent coding capabilities</li>
+</ul>
+
+<!-- ####################### -->
+<!-- # End of Intro to Met # -->
+<!-- ####################### -->
 
 
 ## Previous Work
