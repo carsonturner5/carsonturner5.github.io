@@ -12,7 +12,7 @@ header:
 
 ## Teaching Assistant
 
-<strong style="color: #4CBB17;">Data Structures</strong>
+<strong style="color: #4CBB17;">Computer Concepts in Meteorology</strong>
 <span style="float: right;color: #FFFFFF;">Spring 2026</span>
 
 *University of North Dakota, Department of Atmospheric Sciences*
