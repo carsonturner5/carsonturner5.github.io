@@ -12,6 +12,16 @@ header:
 
 ## Teaching
 
+<div style="display: flex; justify-content: space-between;">
+  <span><strong>Course:</strong> Data Structures</span>
+  <span>Spring 2026</span>
+</div>
+
+<ul style="color:#2E86C1;">
+  <li>Developed a machine learning model.</li>
+  <li>Published research findings.</li>
+</ul>
+
 #### Computer Concepts in Meteorology, Jan 2026 - May 2026
 *University of North Dakota; Department of Atmospheric Sciences*
 
