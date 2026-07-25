@@ -84,7 +84,7 @@ header:
     </span>
 </div>
 
-<p><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
+<p><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
 
 <ul class="custom-bullets">
   <li>Demonstrate analysis of various datasets in meteorology</li>
