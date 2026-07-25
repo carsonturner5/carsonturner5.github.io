@@ -13,11 +13,11 @@ header:
 ## Teaching Assistant
 
 <strong>Data Structures</strong>
-<span style="float: right;">Spring 2026</span>
+<span style="float: right;color: #4CBB17;">Spring 2026</span>
 
 *University of North Dakota, Department of Atmospheric Sciences*
 
-<ul style="color:#2E86C1;">
+<ul style="color:#FFFFFF;">
   <li>Demonstrate analysis of various datasets in meteorology</li>
   <li>Teach data visualization and plotting techniques</li>
   <li>Promote students independent coding capabilities</li>
