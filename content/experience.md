@@ -9,11 +9,18 @@ header:
     enable: true
 ---
 
+li {
+    color: #FFFFFF;
+}
+
+li::marker {
+    color: #009A44;
+}
 
 ## Teaching Assistant
 
 <strong style="color: #4CBB17;">Computer Concepts in Meteorology</strong>
-<span style="float: right;color: #FFFFFF;">Spring 2026</span>
+<span style="float: right;color: #D6DCE5;">Spring 2026</span>
 
 *University of North Dakota, Department of Atmospheric Sciences*
 
