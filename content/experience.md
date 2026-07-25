@@ -12,8 +12,15 @@ header:
 
 ## Teaching
 
-#### Computer Concepts in Meteorology
-*University of North Dakota Department of Atmospheric Sciences*
+#### Computer Concepts in Meteorology, Jan 2026 - May 2026
+*University of North Dakota; Department of Atmospheric Sciences*
+
+  - Demonstrate analysis of various datasets in meteorology
+  - Promote students independent coding capabilities
+  - Teach data visualization and plotting techniques 
+
+#### Introduction to Computer Science, Aug 2025 - Dec 2026
+*University of North Dakota; School of Electrical Engineering and Computer Science*
 
   - Demonstrate analysis of various datasets in meteorology
   - Promote students independent coding capabilities
