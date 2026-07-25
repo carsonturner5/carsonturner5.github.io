@@ -87,9 +87,9 @@ header:
 <p><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
 
 <ul class="custom-bullets">
-  <li>Demonstrate analysis of various datasets in meteorology</li>
-  <li>Teach data visualization and plotting techniques</li>
-  <li>Promote students independent coding capabilities</li>
+  <li>Effectively convey introductory meteorological information to students</li>
+  <li>Clearly explain lab set-up and steps to emphasize concepts</li>
+  <li>Grade and provide clear feedback for ~30 students</li>
 </ul>
 <br>
 <!-- ####################### -->
