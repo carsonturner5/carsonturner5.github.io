@@ -97,8 +97,34 @@ header:
 <!-- ####################### -->
 
 
-## Previous Work
+## Systems Engineering
 
-#### NASA Student Airborne Research Program (SARP) Intern
+<!-- ###################### -->
+<!-- # Start of CC in Met # -->
+<!-- ###################### -->
+
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <strong style="color:#4CBB17; font-size:2rem;">
+        University Nanosatellite Program
+    </strong>
+    <span style="color:#D6DCE5; font-size:1.5rem;">
+        Summer 2024
+    </span>
+</div>
+
+<ul class="custom-bullets">
+  <li>Demonstrate analysis of various datasets in meteorology</li>
+  <li>Teach data visualization and plotting techniques</li>
+  <li>Promote students independent coding capabilities</li>
+</ul>
+<br>
+<!-- #################### -->
+<!-- # End of CC in Met # -->
+<!-- #################### -->
+
+
+
+
 
 Checkout my results [here](/research/)!
