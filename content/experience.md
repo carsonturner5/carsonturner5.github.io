@@ -13,7 +13,7 @@ header:
 ## Teaching
 
 #### Computer Concepts in Meteorology
-* University of North Dakota Department of Atmospheric Sciences
+*University of North Dakota Department of Atmospheric Sciences*
 
   - Demonstrate analysis of various datasets in meteorology
   - Promote students independent coding capabilities
