@@ -12,8 +12,8 @@ header:
 
 ## Teaching Assistant
 
-<strong>Data Structures</strong>
-<span style="float: right;color: #4CBB17;">Spring 2026</span>
+<strong style="color: #4CBB17;">Data Structures</strong>
+<span style="float: right;color: #FFFFFF;">Spring 2026</span>
 
 *University of North Dakota, Department of Atmospheric Sciences*
 
