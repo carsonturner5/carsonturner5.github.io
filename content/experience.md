@@ -23,6 +23,8 @@ header:
   <li>Promote students independent coding capabilities</li>
 </ul>
 
+<strong>Data Structures</strong>
+<span style="float: right;">Spring 2026</span>
     
 <div style="display: flex; justify-content: space-between;">
   <span><strong>Introduction to Computer Science</strong>
