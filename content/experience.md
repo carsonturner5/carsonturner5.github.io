@@ -6,6 +6,7 @@ draft: false
 header:
   navbar:
     enable: true
+toc: true
 ---
 
 
