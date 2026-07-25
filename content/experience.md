@@ -9,13 +9,6 @@ header:
     enable: true
 ---
 
-li {
-    color: #FFFFFF;
-}
-
-li::marker {
-    color: #009A44;
-}
 
 ## Teaching Assistant
 
@@ -25,9 +18,9 @@ li::marker {
 *University of North Dakota, Department of Atmospheric Sciences*
 
 <ul style="color:#FFFFFF;">
-  <li>Demonstrate analysis of various datasets in meteorology</li>
-  <li>Teach data visualization and plotting techniques</li>
-  <li>Promote students independent coding capabilities</li>
+  <li><span style="color:#009A44;">●</span>Demonstrate analysis of various datasets in meteorology</li>
+  <li><span style="color:#009A44;">●</span>Teach data visualization and plotting techniques</li>
+  <li><span style="color:#009A44;">●</span>Promote students independent coding capabilities</li>
 </ul>
 
     
