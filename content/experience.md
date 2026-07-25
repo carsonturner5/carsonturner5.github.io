@@ -20,7 +20,10 @@ header:
 }
 </style>
 
-#################
+<!-- ###################### -->
+<!-- # Start of CC in Met # -->
+<!-- ###################### -->
+
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
     <strong style="color:#4CBB17; font-size:3rem;">
@@ -39,7 +42,9 @@ header:
   <li>Promote students independent coding capabilities</li>
 </ul>
 
-###############
+<!-- #################### -->
+<!-- # End of CC in Met # -->
+<!-- #################### -->
 
 #### <strong style="color: #4CBB17;">Introduction to Computer Science</strong>
 <span style="float: right;color: #D6DCE5;">Fall 2025</span>
