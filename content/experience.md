@@ -12,19 +12,17 @@ header:
 
 ## Teaching Assistant
 
-<div style="display: flex; justify-content: space-between;">
-  <span><strong>Computer Concepts in Meteorology</strong>
-  <span>Spring 2026</span>
-</div>
+<strong>Data Structures</strong>
+<span style="float: right;">Spring 2026</span>
+
 *University of North Dakota, Department of Atmospheric Sciences*
+
 <ul style="color:#2E86C1;">
   <li>Demonstrate analysis of various datasets in meteorology</li>
   <li>Teach data visualization and plotting techniques</li>
   <li>Promote students independent coding capabilities</li>
 </ul>
 
-<strong>Data Structures</strong>
-<span style="float: right;">Spring 2026</span>
     
 <div style="display: flex; justify-content: space-between;">
   <span><strong>Introduction to Computer Science</strong>
