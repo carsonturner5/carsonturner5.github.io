@@ -23,20 +23,17 @@ header:
     color: #ff0101;
 }
 
-/* Default (dark mode) */
-.und-bullets li,
-.unp-bullets li,
-.nasa-bullets li {
-    color: #ffffff;
+html:not(.dark) .und-bullets li,
+html:not(.dark) .unp-bullets li,
+html:not(.dark) .nasa-bullets li {
+    color: #000000;
 }
 
-/* Light mode */
-@media (prefers-color-scheme: light) {
-    .und-bullets li,
-    .unp-bullets li,
-    .nasa-bullets li {
-        color: #000000;
-    }
+/* Dark mode */
+html.dark .und-bullets li,
+html.dark .unp-bullets li,
+html.dark .nasa-bullets li {
+    color: #ffffff;
 }
 </style>
 
