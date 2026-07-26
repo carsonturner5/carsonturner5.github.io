@@ -28,7 +28,7 @@ header:
 
 <style>
 .nasa-bullets li::marker {
-    color: #efad2b;
+    color: #ff0101;
 }
 .nasa-bullets li {
     color: #FFFFFF;
