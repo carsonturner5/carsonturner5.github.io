@@ -51,17 +51,18 @@ skills:
     items:
       - label: Python
         level: 5
-
+      - label: Teaching
+        level: 3
   - name: Hobbies
     color: "#eeac02"
     color_border: "#f0bf23"
     items:
       - label: Rock Climbing
         level: 5
-      - label: Hiking
-        level: 4
       - label: Fishing
         level: 3
+      - label: Hiking
+        level: 4
 awards:
   - title: Neural Networks and Deep Learning
     url: https://www.coursera.org/learn/neural-networks-deep-learning
