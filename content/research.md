@@ -26,7 +26,7 @@ Methane accounts for 12% of all greenhouse gases and is approximately 80 times m
 To quantify methane emissions with a top-down approach, the mass balance technique was used. This technique uses wind speed and direction with gas concentrations to identify trace gas concetrations moving through a plane. 
 
 $$
-a^2 + b^2
+flux=vcos(\alpha)
 $$
 
 Check out my AGU 2025/ AMS 2026 [Poster](/uploads/SARP_Site_Poster.pdf)
