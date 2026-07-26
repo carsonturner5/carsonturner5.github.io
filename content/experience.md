@@ -42,7 +42,7 @@ header:
 <!-- ######################## -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <strong style="color:#4CBB17; font-size:2rem;">
+    <strong style="color:#ff0101; font-size:2rem;">
         Evaluation of GEOS-CAM Aerosols
     </strong>
     <span style="color:#D6DCE5; font-size:1.5rem;">
@@ -67,7 +67,7 @@ header:
 <!-- ######################## -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <strong style="color:#4CBB17; font-size:2rem;">
+    <strong style="color:#ff0101; font-size:2rem;">
         Quantifying Great Dismal Swamp Methane Emissions
     </strong>
     <span style="color:#D6DCE5; font-size:1.5rem;">
