@@ -45,9 +45,6 @@ header:
     <strong style="color:#ff0101; font-size:2rem;">
         Evaluation of GEOS-CAM Aerosols
     </strong>
-    <span style="color:#D6DCE5; font-size:1.5rem;">
-        Summer 2026
-    </span>
 </div>
 
 <p style="line-height: 0.5;"><em>NASA GSFC, Global Modeling and Assimilation Offfice</em></p>
@@ -71,9 +68,6 @@ header:
     <strong style="color:#ff0101; font-size:2rem;">
         Quantifying Great Dismal Swamp Methane Emissions
     </strong>
-    <span style="color:#D6DCE5; font-size:1.5rem;">
-        Summer 2025
-    </span>
 </div>
 
 <p style="line-height: 0.5;"><em>NASA ECR, Student Airborne Research Program (SARP)</em></p>
@@ -103,9 +97,6 @@ header:
         Computer Concepts in Meteorology
     </strong>
 </div>
-    <!-- span style="color:#D6DCE5; font-size:1.5rem;">
-        Spring 2026
-    </span> -->
 
 <p style="line-height: 0.5;"><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
 <p style="line-height: 0.5;"><em>Spring 2026</em></p>
@@ -128,9 +119,6 @@ header:
     <strong style="color:#4CBB17; font-size:2rem;">
         Introduction to Computer Science
     </strong>
-    <span style="color:#D6DCE5; font-size:1.5rem;">
-        Fall 2025
-    </span>
 </div>
 
 <p style="line-height: 0.5;"><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
@@ -154,9 +142,6 @@ header:
     <strong style="color:#4CBB17; font-size:2rem;">
         Introduction to Meteorology
     </strong>
-    <span style="color:#D6DCE5; font-size:1.5rem;">
-        Fall 2024, Spring 2025
-    </span>
 </div>
 
 <p style="line-height: 0.5;"><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
@@ -184,9 +169,6 @@ header:
     <strong style="color:#efad2b; font-size:2rem;">
         University Nanosatellite Program
     </strong>
-    <span style="color:#D6DCE5; font-size:1.5rem;">
-        Summer 2024
-    </span>
 </div>
 <p style="line-height: 0.5;"><em>Summer 2024</em></p>
 
