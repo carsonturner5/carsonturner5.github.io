@@ -8,9 +8,6 @@ header:
     enable: true
 ---
 
-
-## Teaching Assistant
-
 <style>
 .und-bullets li::marker {
     color: #4CBB17;
@@ -29,6 +26,13 @@ header:
 }
 </style>
 
+## Research
+
+
+
+## Teaching Assistant
+
+
 <!-- ###################### -->
 <!-- # Start of CC in Met # -->
 <!-- ###################### -->
@@ -44,6 +48,7 @@ header:
     </span> -->
 
 <p><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
+<p><em>Spring 2026</em></p>
 
 <ul class="und-bullets">
   <li>Demonstrate analysis of various datasets in meteorology</li>
