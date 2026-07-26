@@ -32,9 +32,7 @@ header:
 .nasa-bullets li::marker {
     color: #ff0101;
 }
-.nasa-bullets li {
-    color: #FFFFFF;
-}
+
 </style>
 
 ## Research
