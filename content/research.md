@@ -10,6 +10,7 @@ header:
 math: true
 ---
 
+<meta name="color-scheme" content="light dark" />
 
 ## Current Research
 
