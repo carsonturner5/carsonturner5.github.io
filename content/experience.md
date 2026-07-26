@@ -51,6 +51,7 @@ header:
 </div>
 
 <p><em>NASA GSFC, Global Modeling and Assimilation Offfice</em></p>
+<p style="line-height: 0.5;"><em>Spring 2026</em></p>
 
 <ul class="nasa-bullets">
   <li>Create a Python utility to gather and analyze GEOS data</li>
@@ -76,6 +77,7 @@ header:
 </div>
 
 <p><em>NASA ECR, Student Airborne Research Program (SARP)</em></p>
+<p style="line-height: 0.5;"><em>Spring 2026</em></p>
 
 <ul class="nasa-bullets">
   <li>Collect in-situ data on research flights and ground truthing trips</li>
@@ -132,6 +134,7 @@ header:
 </div>
 
 <p><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
+<p style="line-height: 0.5;"><em>Spring 2026</em></p>
 
 <ul class="und-bullets">
   <li>Develop beginner level Python labs weekly</li>
@@ -157,6 +160,7 @@ header:
 </div>
 
 <p><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
+<p style="line-height: 0.5;"><em>Spring 2026</em></p>
 
 <ul class="und-bullets">
   <li>Effectively convey introductory meteorological information to students</li>
@@ -184,6 +188,7 @@ header:
         Summer 2024
     </span>
 </div>
+<p style="line-height: 0.5;"><em>Spring 2026</em></p>
 
 <ul class="unp-bullets">
   <li>Design and develop fundamental satellite systems</li>
