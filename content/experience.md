@@ -33,6 +33,15 @@ header:
     color: #ff0101;
 }
 
+.nasa-bullets li {
+    color: #ffffff;
+}
+
+@media (prefers-color-scheme: light) {
+    .nasa-bullets li {
+        color: #000000;
+    }
+}
 </style>
 
 ## Research
