@@ -63,7 +63,7 @@ header:
 <!-- ###################### -->
 
 <!-- ######################## -->
-<!-- # Start of GSFC # -->
+<!-- # Start of SARP # -->
 <!-- ######################## -->
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -78,13 +78,13 @@ header:
 <p><em>NASA ECR, Student Airborne Research Program (SARP)</em></p>
 
 <ul class="nasa-bullets">
-  <li>Create a Python utility to gather and analyze GEOS data</li>
-  <li>Evaluate modeled AOD within the GEOS systems</li>
-  <li>Provide recommendations for improvement to GEOS-CAM</li>
+  <li>Collect in-situ data on research flights and ground truthing trips</li>
+  <li>Analyze ground station, satellite, and air data using Python</li>
+  <li>Calculate methane flux using the mass balance technique</li>
 </ul>
 <br>
 <!-- ###################### -->
-<!-- # End of GSFC # -->
+<!-- # End of SARP # -->
 <!-- ###################### -->
 
 
