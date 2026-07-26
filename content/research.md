@@ -29,4 +29,6 @@ $$
 flux=vcos(\alpha)\int_{z_o}^{z_1}\int_{-y}^{y}(X-X_{bg})dydz
 $$
 
+![Alt text description](/uploads/mbt_diagram.png)
+
 Check out my AGU 2025/ AMS 2026 [Poster](/uploads/SARP_Site_Poster.pdf)
