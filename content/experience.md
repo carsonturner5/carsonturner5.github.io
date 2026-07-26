@@ -12,10 +12,10 @@ header:
 ## Teaching Assistant
 
 <style>
-.custom-bullets li::marker {
+.und-bullets li::marker {
     color: #4CBB17;
 }
-.custom-bullets li {
+.und-bullets li {
     color: #FFFFFF;
 }
 </style>
@@ -36,7 +36,7 @@ header:
 
 <p><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
 
-<ul class="custom-bullets">
+<ul class="und-bullets">
   <li>Demonstrate analysis of various datasets in meteorology</li>
   <li>Teach data visualization and plotting techniques</li>
   <li>Promote students independent coding capabilities</li>
@@ -61,7 +61,7 @@ header:
 
 <p><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
 
-<ul class="custom-bullets">
+<ul class="und-bullets">
   <li>Develop beginner level Python labs weekly</li>
   <li>Use real world meteorology based problems to teach Python</li>
   <li>Clearly explain introductory computer science concepts</li>
@@ -86,7 +86,7 @@ header:
 
 <p><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
 
-<ul class="custom-bullets">
+<ul class="und-bullets">
   <li>Effectively convey introductory meteorological information to students</li>
   <li>Clearly explain lab set-up and steps to emphasize concepts</li>
   <li>Grade and provide clear feedback for ~30 students</li>
