@@ -55,10 +55,8 @@ header:
   <li>Evaluate modeled AOD within the GEOS systems</li>
   <li>Provide recommendations for improvement to GEOS-CAM</li>
 </ul>
-<br>
-
 Learn more about my results [here](/research/).
-
+</br>
 <!-- ###################### -->
 <!-- # End of GSFC # -->
 <!-- ###################### -->
@@ -81,9 +79,9 @@ Learn more about my results [here](/research/).
   <li>Analyze ground station, satellite, and air data using Python</li>
   <li>Calculate methane flux using the mass balance technique</li>
 </ul>
+Learn more about my results [here](/research/).
 <br>
 
-Learn more about my results [here](/research/).
 
 <!-- ###################### -->
 <!-- # End of SARP # -->
