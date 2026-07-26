@@ -26,6 +26,15 @@ header:
 }
 </style>
 
+<style>
+.nasa-bullets li::marker {
+    color: #efad2b;
+}
+.nasa-bullets li {
+    color: #FFFFFF;
+}
+</style>
+
 ## Research
 
 <!-- ######################## -->
@@ -41,9 +50,9 @@ header:
     </span>
 </div>
 
-<p><em>NASA Goddard Space Flight Center, Global Modeling and Assimilation Offfice</em></p>
+<p><em>NASA GSFC, Global Modeling and Assimilation Offfice</em></p>
 
-<ul class="und-bullets">
+<ul class="nasa-bullets">
   <li>Develop beginner level Python labs weekly</li>
   <li>Use real world meteorology based problems to teach Python</li>
   <li>Clearly explain introductory computer science concepts</li>
