@@ -50,7 +50,7 @@ header:
     </span>
 </div>
 
-<p><em>NASA GSFC, Global Modeling and Assimilation Offfice</em></p>
+<p style="line-height: 0.5;"><em>NASA GSFC, Global Modeling and Assimilation Offfice</em></p>
 <p style="line-height: 0.5;"><em>Summer 2026</em></p>
 
 <ul class="nasa-bullets">
@@ -76,7 +76,7 @@ header:
     </span>
 </div>
 
-<p><em>NASA ECR, Student Airborne Research Program (SARP)</em></p>
+<p style="line-height: 0.5;"><em>NASA ECR, Student Airborne Research Program (SARP)</em></p>
 <p style="line-height: 0.5;"><em>Summer 2025</em></p>
 
 <ul class="nasa-bullets">
@@ -133,7 +133,7 @@ header:
     </span>
 </div>
 
-<p><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
+<p style="line-height: 0.5;"><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
 <p style="line-height: 0.5;"><em>Fall 2025</em></p>
 
 <ul class="und-bullets">
@@ -159,7 +159,7 @@ header:
     </span>
 </div>
 
-<p><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
+<p style="line-height: 0.5;"><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
 <p style="line-height: 0.5;"><em>Fall 2024, Spring 2025</em></p>
 
 <ul class="und-bullets">
