@@ -21,3 +21,5 @@ GEOS-CAM has aerosols!!
 #### Quantifying Methane Fluxes Over the Great Dismal Swamp
 
 The swamp has methane!!
+
+Check out my AGU 2025/ AMS 2026 [Poster](/assets/media/SARP_Site_poster/)
