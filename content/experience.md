@@ -14,35 +14,33 @@ header:
 .und-bullets li::marker {
     color: #4CBB17;
 }
-.und-bullets li {
-    color: #FFFFFF;
-}
-</style>
 
-<style>
 .unp-bullets li::marker {
     color: #efad2b;
 }
-.unp-bullets li {
-    color: #FFFFFF;
-}
-</style>
 
-<style>
 .nasa-bullets li::marker {
     color: #ff0101;
 }
 
+/* Default (dark mode) */
+.und-bullets li,
+.unp-bullets li,
 .nasa-bullets li {
     color: #ffffff;
 }
 
+/* Light mode */
 @media (prefers-color-scheme: light) {
+    .und-bullets li,
+    .unp-bullets li,
     .nasa-bullets li {
         color: #000000;
     }
 }
 </style>
+
+
 
 ## Research
 
