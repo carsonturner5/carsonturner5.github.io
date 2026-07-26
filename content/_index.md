@@ -39,9 +39,9 @@ sections:
     content:
       title: Skills & Hobbies
       username: me
-  - block: awards
+ <!-- - block: awards
     content:
       title: Awards
-      username: me
+      username: me -->
 
 ---
