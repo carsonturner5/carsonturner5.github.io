@@ -62,6 +62,31 @@ header:
 <!-- # End of GSFC # -->
 <!-- ###################### -->
 
+<!-- ######################## -->
+<!-- # Start of GSFC # -->
+<!-- ######################## -->
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <strong style="color:#4CBB17; font-size:2rem;">
+        Quantifying Great Dismal Swamp Methane Emissions
+    </strong>
+    <span style="color:#D6DCE5; font-size:1.5rem;">
+        Summer 2025
+    </span>
+</div>
+
+<p><em>NASA ECR, Student Airborne Research Program (SARP)</em></p>
+
+<ul class="nasa-bullets">
+  <li>Create a Python utility to gather and analyze GEOS data</li>
+  <li>Evaluate modeled AOD within the GEOS systems</li>
+  <li>Provide recommendations for improvement to GEOS-CAM</li>
+</ul>
+<br>
+<!-- ###################### -->
+<!-- # End of GSFC # -->
+<!-- ###################### -->
+
 
 ## Teaching Assistant
 
