@@ -22,4 +22,4 @@ GEOS-CAM has aerosols!!
 
 The swamp has methane!!
 
-Check out my AGU 2025/ AMS 2026 [Poster](/assets/media/SARP_Site_Poster.pdf)
+Check out my AGU 2025/ AMS 2026 [Poster](/static/uploads/SARP_Site_Poster.pdf)
