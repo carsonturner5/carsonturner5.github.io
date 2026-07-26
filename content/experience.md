@@ -170,6 +170,7 @@ header:
         University Nanosatellite Program
     </strong>
 </div>
+<p style="line-height: 0.5;"><em>Space Dynamics Laboratory/AFRL</em></p>
 <p style="line-height: 0.5;"><em>Summer 2024</em></p>
 
 <ul class="unp-bullets">
