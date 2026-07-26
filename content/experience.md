@@ -55,7 +55,9 @@ header:
   <li>Evaluate modeled AOD within the GEOS systems</li>
   <li>Provide recommendations for improvement to GEOS-CAM</li>
 </ul>
+
 Learn more about my results [here](/research/).
+
 </br>
 <!-- ###################### -->
 <!-- # End of GSFC # -->
