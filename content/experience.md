@@ -56,6 +56,9 @@ header:
   <li>Provide recommendations for improvement to GEOS-CAM</li>
 </ul>
 <br>
+
+Learn more about my results [here](/research/).
+
 <!-- ###################### -->
 <!-- # End of GSFC # -->
 <!-- ###################### -->
@@ -79,6 +82,9 @@ header:
   <li>Calculate methane flux using the mass balance technique</li>
 </ul>
 <br>
+
+Learn more about my results [here](/research/).
+
 <!-- ###################### -->
 <!-- # End of SARP # -->
 <!-- ###################### -->
