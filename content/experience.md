@@ -8,6 +8,8 @@ header:
     enable: true
 ---
 
+<meta name="color-scheme" content="light dark" />
+
 <style>
 .und-bullets li::marker {
     color: #4CBB17;
