@@ -15,7 +15,7 @@ math: true
 
 #### Evaluating Aerosols in GEOS-CAM
 
-GEOS-CAM has aerosols!!
+Information coming soon.
 
 ## Previous Work
 
