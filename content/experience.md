@@ -28,6 +28,30 @@ header:
 
 ## Research
 
+<!-- ######################## -->
+<!-- # Start of GSFC # -->
+<!-- ######################## -->
+
+<div style="display: flex; justify-content: space-between; align-items: center;">
+    <strong style="color:#4CBB17; font-size:2rem;">
+        Evaluation of GEOS-CAM Aerosols
+    </strong>
+    <span style="color:#D6DCE5; font-size:1.5rem;">
+        Summer 2026
+    </span>
+</div>
+
+<p><em>NASA Goddard Space Flight Center, Global Modeling and Assimilation Offfice</em></p>
+
+<ul class="und-bullets">
+  <li>Develop beginner level Python labs weekly</li>
+  <li>Use real world meteorology based problems to teach Python</li>
+  <li>Clearly explain introductory computer science concepts</li>
+</ul>
+<br>
+<!-- ###################### -->
+<!-- # End of GSFC # -->
+<!-- ###################### -->
 
 
 ## Teaching Assistant
