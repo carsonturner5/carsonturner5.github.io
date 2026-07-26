@@ -20,6 +20,15 @@ header:
 }
 </style>
 
+<style>
+.unp-bullets li::marker {
+    color: #efad2b;
+}
+.unp-bullets li {
+    color: #FFFFFF;
+}
+</style>
+
 <!-- ###################### -->
 <!-- # Start of CC in Met # -->
 <!-- ###################### -->
@@ -105,7 +114,7 @@ header:
 
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
-    <strong style="color:#4CBB17; font-size:2rem;">
+    <strong style="color:#efad2b; font-size:2rem;">
         University Nanosatellite Program
     </strong>
     <span style="color:#D6DCE5; font-size:1.5rem;">
@@ -113,7 +122,7 @@ header:
     </span>
 </div>
 
-<ul class="custom-bullets">
+<ul class="unp-bullets">
   <li>Demonstrate analysis of various datasets in meteorology</li>
   <li>Teach data visualization and plotting techniques</li>
   <li>Promote students independent coding capabilities</li>
