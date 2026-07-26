@@ -53,9 +53,9 @@ header:
 <p><em>NASA GSFC, Global Modeling and Assimilation Offfice</em></p>
 
 <ul class="nasa-bullets">
-  <li>Develop beginner level Python labs weekly</li>
-  <li>Use real world meteorology based problems to teach Python</li>
-  <li>Clearly explain introductory computer science concepts</li>
+  <li>Create a Python utility to gather and analyze GEOS data</li>
+  <li>Evaluate modeled AOD within the GEOS systems</li>
+  <li>Provide recommendations for improvement to GEOS-CAM</li>
 </ul>
 <br>
 <!-- ###################### -->
