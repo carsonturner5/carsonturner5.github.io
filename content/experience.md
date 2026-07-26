@@ -121,7 +121,7 @@ header:
     </strong>
 </div>
 
-<p style="line-height: 0.5;"><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
+<p style="line-height: 0.75;"><em>University of North Dakota, School of Electrical Engineering and Computer Science</em></p>
 <p style="line-height: 0.5;"><em>Fall 2025</em></p>
 
 <ul class="und-bullets">
