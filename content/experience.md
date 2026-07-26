@@ -71,8 +71,8 @@ header:
         Spring 2026
     </span> -->
 
-<p><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
-<p><em>Spring 2026</em></p>
+<p style="line-height: 1.25;"><em>University of North Dakota, Department of Atmospheric Sciences</em></p>
+<p style="line-height: 1.25;"><em>Spring 2026</em></p>
 
 <ul class="und-bullets">
   <li>Demonstrate analysis of various datasets in meteorology</li>
