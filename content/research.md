@@ -7,6 +7,7 @@ draft: false
 header:
   navbar:
     enable: true
+math: true
 ---
 
 
