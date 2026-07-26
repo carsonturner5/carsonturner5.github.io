@@ -123,9 +123,9 @@ header:
 </div>
 
 <ul class="unp-bullets">
-  <li>Demonstrate analysis of various datasets in meteorology</li>
-  <li>Teach data visualization and plotting techniques</li>
-  <li>Promote students independent coding capabilities</li>
+  <li>Design and develop fundamental satellite systems</li>
+  <li>Collaborate with professionals during system and design reviews</li>
+  <li>Reiterate and improve design concepts</li>
 </ul>
 <br>
 <!-- #################### -->
