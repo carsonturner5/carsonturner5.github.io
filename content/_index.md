@@ -39,9 +39,4 @@ sections:
     content:
       title: Skills & Hobbies
       username: me
- <!-- - block: awards
-    content:
-      title: Awards
-      username: me -->
-
 ---
