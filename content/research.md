@@ -17,6 +17,8 @@ math: true
 #### Evaluating Aerosols in GEOS-CAM
 
 Information coming soon.
+{{< qr text="https://carsonturner5.github.io/research/" />}}
+
 Check out this [animation](https://svs.gsfc.nasa.gov/5665)
 
 ## Previous Work
