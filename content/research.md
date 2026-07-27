@@ -17,6 +17,7 @@ math: true
 #### Evaluating Aerosols in GEOS-CAM
 
 Information coming soon.
+Check out this [animation](https://svs.gsfc.nasa.gov/5665)
 
 ## Previous Work
 
