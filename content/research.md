@@ -18,8 +18,9 @@ math: true
 
 Information coming soon.
 <!-- {{< qr text="www.linkedin.com/in/carturner" />}} -->
+Check out my [poster](/uploads/AnEvaluationOfAerosolsInGEOS-CAM.pdf)
 
-Check out this [animation](https://svs.gsfc.nasa.gov/5665)
+Check out this GEOS-CAM [animation](https://svs.gsfc.nasa.gov/5665)
 
 ## Previous Work
 
