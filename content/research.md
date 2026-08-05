@@ -31,6 +31,8 @@ GEOS-CAM is shown to be performing well throughout the United States with correl
 
 In Figure 2, each day at 18Z a drastic change in AOD is seen in the GEOS-FP portion that is not present in the GEOS-CAM portion. When this AOD data assimilation occurs, the modeled GEOS-FP AOD value adjusts to more closely match observations for the initial conditions. This can also be observed when looking at the evolution of the forecasts in Figure 3. 
 
+{{< figure src="/uploads/chiclet_aod_GSFC.png" title="Figure 3" caption="Evolution of the AOD forecasts from July 15th to July 20th at Goddard Space Flight Center." alt="Evolution of the AOD forecasts from July 15th to July 20th at Goddard Space Flight Center." >}}
+
 <!-- {{< qr text="www.linkedin.com/in/carturner" />}} -->
 Check out my [poster](/uploads/AnEvaluationOfAerosolsInGEOS-CAM.pdf)
 
