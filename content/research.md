@@ -22,10 +22,13 @@ While aerosols in GEOS-FP have been thoroughly evaluated in a research framework
 
 When compared against AERONET observations, both GEOS-CAM and GEOS-FP showed similar bias and RMSE throughout much of the United States regardless of forecast hour or initialization time as seen in Figure 1. This was not true however along the east coast of the United States where strong negative biases and high RMSE values were found in GEOS-CAM only. This discrepancy was a result of the mid-July 2026 extreme smoke event that the eastern United States faced. When analysis was performed without the extreme smoke event days, this discrepancy between the models no longer exists, as seen [here](/uploads/no_smoke_aod_6panel_ALL_20260529_20260721_00z.gif).
 
-![Biases (top), RMSE (middle), and Correlation (bottom) present throughout the United States in GEOS-CAM (left) and GEOS-FP (right).](/uploads/aod_6panel_ALL_20260529_20260727_00z.gif)
+
 {{< figure src="/uploads/aod_6panel_ALL_20260529_20260727_00z.gif" title="Figure 1" caption="Biases (top), RMSE (middle), and Correlation (bottom) present throughout the United States in GEOS-CAM (left) and GEOS-FP (right)." alt="Biases (top), RMSE (middle), and Correlation (bottom) present throughout the United States in GEOS-CAM (left) and GEOS-FP (right)." >}}
 
 GEOS-CAM is shown to be performing well throughout the United States with correlations around 0.75 as seen in Figure 1. GEOS-FP also performed well with correlations much closer to 1.0. While each model is likely subject to underlying biases related to smoke emission, transport, and optical properties, this discrepancy is believed to be a result of the lack of AOD data assimilation within GEOS-CAM. This was difficult to identify in regular day-to-day variability of AOD as seen [here](/uploads/GSFC_no_smoke_speciation.png), but was easily identifiable during the extreme smoke event.
+
+{{< figure src="/uploads/GSFC_speciation_smoke.png" title="Figure 2" caption="Speciation of AOD at Goddard Space Flight Center during an extreme smoke event in mid-July 2026." alt="Speciation of AOD at Goddard Space Flight Center during an extreme smoke event in mid-July 2026." >}}
+
 
 ![A comparison of biases between GEOS-FP (x-axis) and GEOS-CAM (y-axis).](/uploads/case_study_ALL_RMSE_20260529_20260727_scatter.png)
 
