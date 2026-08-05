@@ -18,7 +18,7 @@ math: true
 
 Accurate forecasts of aerosols are essential for predicting air quality and its impacts on human health. Weather prediction models that couple aerosols to the meteorology, such as the Goddard Earth Observing System (GEOS) Forward Processing (GEOS-FP), provide a wealth of information that can be used to further our understanding of air quality prediction. Recent advancements in the use of a stretched grid to allow for high spatial resolution over the United States have allowed for the GEOS Convection Allowing Model (GEOS-CAM) to generate forecasts of meteorological and aerosol diagnostics at a resolution as fine as ~2.5 km. 
 
-While aerosols in GEOS-FP have been thoroughly evaluated in a research framework, validation of aerosols within GEOS-CAM has been limited up until this point. By performing a more in-depth assessment of aerosols within GEOS-CAM, recommendations can be made for applications of these forecasts and areas of improvement within GEOS-CAM. To evaluate GEOS-CAM, AOD forecasts were compared with the GEOS-FP prediction system and ground-based observations of AOD values from the Aerosol Robotic Network (AERONET). 
+While aerosols in GEOS-FP have been thoroughly evaluated in a research framework, validation of aerosols within GEOS-CAM has been limited up until this point. By performing a more in-depth assessment of aerosols within GEOS-CAM, recommendations can be made for applications of these forecasts and areas of improvement within GEOS-CAM. To evaluate GEOS-CAM, aerosol optical depth (AOD) forecasts were compared with the GEOS-FP prediction system and ground-based observations of AOD values from the Aerosol Robotic Network (AERONET). 
 
 When compared against AERONET observations, both GEOS-CAM and GEOS-FP showed similar bias and RMSE throughout much of the United States regardless of forecast hour or initialization time as seen in Figure 1. This was not true however along the east coast of the United States where strong negative biases and high RMSE values were found in GEOS-CAM only. This discrepancy was a result of the mid-July 2026 extreme smoke event that the eastern United States faced. When analysis was performed without the extreme smoke event days, this discrepancy between the models no longer exists, as seen [here](/uploads/no_smoke_aod_6panel_ALL_20260529_20260721_00z.gif).
 
@@ -29,8 +29,7 @@ GEOS-CAM is shown to be performing well throughout the United States with correl
 
 {{< figure src="/uploads/GSFC_speciation_smoke.png" title="Figure 2" caption="Speciation of AOD at Goddard Space Flight Center during an extreme smoke event in mid-July 2026." alt="Speciation of AOD at Goddard Space Flight Center during an extreme smoke event in mid-July 2026." >}}
 
-
-![A comparison of biases between GEOS-FP (x-axis) and GEOS-CAM (y-axis).](/uploads/case_study_ALL_RMSE_20260529_20260727_scatter.png)
+In Figure 2, each day at 18Z a drastic change in AOD is seen in the GEOS-FP portion that is not present in the GEOS-CAM portion. When this AOD data assimilation occurs, the modeled GEOS-FP AOD value adjusts to more closely match observations for the initial conditions. This can also be observed when looking at the evolution of the forecasts in Figure 3. 
 
 <!-- {{< qr text="www.linkedin.com/in/carturner" />}} -->
 Check out my [poster](/uploads/AnEvaluationOfAerosolsInGEOS-CAM.pdf)
