@@ -23,6 +23,7 @@ While aerosols in GEOS-FP have been thoroughly evaluated in a research framework
 When compared against AERONET observations, both GEOS-CAM and GEOS-FP showed similar bias and RMSE throughout much of the United States regardless of forecast hour or initialization time. This was not true however along the east coast of the United States where strong negative biases and high RMSE values were found in GEOS-CAM only. This discrepancy was a result of the mid-July 2026 extreme smoke event that the eastern United States faced. When analysis was performed without the extreme smoke event days, this discrepancy between the models no longer exists, as seen [here](/uploads/no_smoke_aod_6panel_ALL_20260529_20260721_00z.gif).
 
 ![Biases (top), RMSE (middle), and Correlation (bottom) present throughout the United States in GEOS-CAM (left) and GEOS-FP (right).](/uploads/aod_6panel_ALL_20260529_20260727_00z.gif)
+{{< figure src="/uploads/aod_6panel_ALL_20260529_20260727_00z.gif" title="Figure 1" caption="This is my caption text." alt="Alternative image text" >}}
 ![A comparison of biases between GEOS-FP (x-axis) and GEOS-CAM (y-axis).](/uploads/case_study_ALL_RMSE_20260529_20260727_scatter.png)
 
 <!-- {{< qr text="www.linkedin.com/in/carturner" />}} -->
