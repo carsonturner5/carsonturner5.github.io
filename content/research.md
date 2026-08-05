@@ -21,7 +21,7 @@ Accurate forecasts of aerosols are essential for predicting air quality and its 
 While aerosols in GEOS-FP have been thoroughly evaluated in a research framework, validation of aerosols within GEOS-CAM has been limited up until this point. By performing a more in-depth assessment of aerosols within GEOS-CAM, recommendations can be made for applications of these forecasts and areas of improvement within GEOS-CAM. To evaluate GEOS-CAM, AOD forecasts were compared with the GEOS-FP prediction system and ground-based observations of AOD values from the Aerosol Robotic Network (AERONET). 
 
 ![Biases (top), RMSE (middle), and Correlation (bottom) present throughout the United States in GEOS-CAM (left) and GEOS-FP (right).](/uploads/aod_6panel_ALL_20260529_20260727_00z.gif)
-![A comparison of biases between GEOS-FP (x-axis) and GEOS-CAM (y-axis).](/uploads/case_study_ALL_RMSE_20260529_20260727.png)
+![A comparison of biases between GEOS-FP (x-axis) and GEOS-CAM (y-axis).](/uploads/case_study_ALL_RMSE_20260529_20260727_scatter.png)
 
 <!-- {{< qr text="www.linkedin.com/in/carturner" />}} -->
 Check out my [poster](/uploads/AnEvaluationOfAerosolsInGEOS-CAM.pdf)
