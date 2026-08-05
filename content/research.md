@@ -16,7 +16,12 @@ math: true
 
 #### Evaluating Aerosols in GEOS-CAM
 
-Information coming soon.
+Accurate forecasts of aerosols are essential for predicting air quality and its impacts on human health. Weather prediction models that couple aerosols to the meteorology, such as the Goddard Earth Observing System (GEOS) Forward Processing (GEOS-FP), provide a wealth of information that can be used to further our understanding of air quality prediction. Recent advancements in the use of a stretched grid to allow for high spatial resolution over the United States have allowed for the GEOS Convection Allowing Model (GEOS-CAM) to generate forecasts of meteorological and aerosol diagnostics at a resolution as fine as ~2.5 km. 
+
+While aerosols in GEOS-FP have been thoroughly evaluated in a research framework, validation of aerosols within GEOS-CAM has been limited up until this point. By performing a more in-depth assessment of aerosols within GEOS-CAM, recommendations can be made for applications of these forecasts and areas of improvement within GEOS-CAM. To evaluate GEOS-CAM, AOD forecasts were compared with the GEOS-FP prediction system and ground-based observations of AOD values from the Aerosol Robotic Network (AERONET). 
+
+
+
 <!-- {{< qr text="www.linkedin.com/in/carturner" />}} -->
 Check out my [poster](/uploads/AnEvaluationOfAerosolsInGEOS-CAM.pdf)
 
