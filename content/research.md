@@ -36,9 +36,9 @@ In Figure 2, each day at 18Z a drastic change in AOD is seen in the GEOS-FP port
 It was determined that while GEOS-CAM performs nearly as well as GEOS-FP on the daily variability of AOD forecasts despite lacking AOD data assimilation, it under predicts when forecasting for extreme smoke events. It is believed that this is primarily caused by the lack of AOD data assimilation in GEOS-CAM while underlying model biases still likely plays a role. Moving forward, next steps include identifying the impact of AOD data assimilation, expanding the analysis to include fine particulate matter, and evaluate the aerosol composition in GEOS-CAM. 
 
 <!-- {{< qr text="www.linkedin.com/in/carturner" />}} -->
-Check out my [poster](/uploads/AnEvaluationOfAerosolsInGEOS-CAM.pdf)
+Check out my [poster](/uploads/AnEvaluationOfAerosolsInGEOS-CAM.pdf).
 
-Check out this GEOS-CAM [animation](https://svs.gsfc.nasa.gov/5665)
+Check out this GEOS-CAM [animation](https://svs.gsfc.nasa.gov/5665).
 
 ## Previous Work
 
